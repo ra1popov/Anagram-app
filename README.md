@@ -1,9 +1,6 @@
 # Anagram
 P2P Video Chat for Android Devices
 <br>
-Simple P2P Video Chat Implementation
-<br>
-<br>
 
 ## License
 
