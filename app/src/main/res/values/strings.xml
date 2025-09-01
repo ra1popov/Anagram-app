@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anagram</string>
+
+    <string name="signal_server_connection_error">Can\'t connect to the signal server!</string>
+    <string name="permissions_camera_microphone_required">Camera and microphone permissions are required!</string>
+
+</resources>

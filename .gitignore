@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Gradle
+.gradle/
+gradle/
+build/
+*/build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Config
+app/src/main/java/app/anagram/Config.java
