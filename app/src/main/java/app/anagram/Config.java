@@ -20,8 +20,7 @@ public class Config {
                     .setPassword("password")
                     .createIceServer()
     );
-
-
+    
     public static final ClientRole ROLE = ClientRole.master;
 
 }
