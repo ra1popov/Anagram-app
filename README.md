@@ -12,7 +12,7 @@ After that, change ROLE to ClientRole.slave and build the second APK for the rec
 <br>
 
 ## Run
-To start the video chat, share one of the built APKs with the other party. If you plan to communicate with multiple users, give them the slave build and keep the master build for yourself.
+To start the video chat, share one of the built APK with the other party. If you plan to communicate with multiple users, give them the slave build and keep the master build for yourself.
 <br>
 The launch order of the app (master or slave build) does not matter.
 <br>
