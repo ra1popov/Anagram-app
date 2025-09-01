@@ -13,4 +13,4 @@ app/build/
 *.iml
 
 # Config
-app/src/main/java/app/anagram/Config.java
+# app/src/main/java/app/anagram/Config.java
